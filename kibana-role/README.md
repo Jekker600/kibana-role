@@ -31,4 +31,4 @@ MIT
 Author Information
 ------------------
 
-EP:e.parshin87@gmail.com
+EP:E.Parshin87@gmail.com

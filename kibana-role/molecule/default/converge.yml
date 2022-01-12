@@ -5,3 +5,7 @@
     - name: "Include kibana-role"
       include_role:
         name: "kibana-role"
+    - name: "Include elastic-role"
+      include_role:
+        name: "elastic"
+
